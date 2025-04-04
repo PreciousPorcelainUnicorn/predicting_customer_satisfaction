@@ -24,7 +24,7 @@ Distance,’ and satisfaction ratings for services
 like ‘Inflight wifi service’ and ‘Seat comfort’. 
 The target variable was ‘satisfaction,’ indicating 
 whether customers were satisfied or not.
-![ the ratio of satisfied and dissatisfied customers for different services](services.png)
+![ the ratio of satisfied and dissatisfied customers for different services](images/services.png)
 *The ratio of satisfied and dissatisfied customers for different services*
 ## Modeling and Evaluation
 A decision tree model was built and evaluated, 
@@ -35,7 +35,7 @@ accuracy, precision, recall, and the F1 score.
 The tuned model achieved an accuracy of 94.7% on 
 the testing data, with a precision of 94.9%, 
 recall of 93.1%, and an F1 score of 93.9%.
-![ feature importances of the tuned tree](feature_importances.png)
+![ feature importances of the tuned tree](images/feature_importances.png)
 *Feature importances of the tuned tree*
 ## Conclusion
 The decision tree model effectively predicts 
